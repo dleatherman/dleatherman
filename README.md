@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📎 [danleatherman.com](https://danleatherman.com)
+🗽 [New York City](https://youtu.be/i0_rHbGCpLU?t=22)
+
 <!--
 **dleatherman/dleatherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
